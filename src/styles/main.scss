@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @use 'variaveis';
 @use 'hero';
 
@@ -64,10 +64,4 @@ body{
     @include text(18px);
     color: variaveis.$corTextoSecundario;
     text-decoration: underline;
-=======
-$bgColor: red;
-
-body {
-    background-color: $bgColor;
->>>>>>> 136a54e4d832e52681eee0f3b630e1996cf19940
 }
